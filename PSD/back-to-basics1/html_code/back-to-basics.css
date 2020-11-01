@@ -1,0 +1,291 @@
+/*************Reset CSS Code Start*************************/
+*{
+	
+	margin:0;
+	padding:0;
+	border:0;
+	box-sizing:border-box;
+	
+}
+/*************Reset CSS Code End*************************/
+	.container {
+		width: 962px;
+		margin: 0 auto;
+	}
+	.clear{   clear:both;  }
+/*************************Header Starts Here**************************************/
+	/*********************Info Start Here*******************************/
+	.info{ 
+			text-align:left; 
+			float:left;
+			font-family:Georgia;
+		 }
+	.info h2{
+				font-family:Georgia;
+				font-size:26px;
+				color:#4a4a4a;
+				padding:24px 0px 11px 0px;
+			}
+	.info h3{
+				font-size:12px;
+				color:#999;
+				
+			}
+	.form-detail {
+					float:right;
+					margin-top:35px;
+				}
+	.form-detail input[type=text]{
+					border:1px solid black;
+					border-radius:10px;
+					background-color:#353535;
+					color:#999;
+					width:217px;
+					padding:12px 0px;
+				}
+	.form-detail a{
+						color:#fff;						
+						font-size:12px;
+						text-decoration:none;
+						background-color: #d54346;
+						padding:12px 10px;
+						border-radius:10px;
+						
+					}
+	
+	
+	/*********************Info End Here*******************************/
+	
+	/***********************Navigation link Start here****************/
+	.navigation_bar {
+						float:left;	
+						padding:40px 0px 25px 0px;
+					}
+	
+	.navigation_bar a{
+						text-decoration:none;	
+						padding-right:28px;
+						color:#999;					
+						font-size:13px;
+				      }
+	.navigation_bar a:hover {
+							   color: red;
+
+							}
+	/***********************Navigation link End here****************/
+	
+	/***********************Logo Start here*************************/
+	.logo {
+				float:right;
+				padding:17px 11px 76px 11px;
+			}
+
+	/***********************Logo End here**************************/
+	
+	.line{
+		 border: 1px solid #e2e2e2;
+		 width:100%;
+		}
+/*************************Header Ends Here**************************************/ 
+
+/*************************Image Starts Here**************************************/
+	.Image {
+				position:relative;
+				padding-top:50px;
+			}
+	.img-info{
+				font-family:Georgia;
+				height:150px;
+				width:500px;
+				background-color:#151515;
+				position:absolute;
+				margin:-167px 15px 15px 15px;
+				padding:32px 30px;
+			}
+	.img-info p{
+					text-align:center;
+					font-size:22px;
+					color:#fff;
+				}
+
+/*************************Image Ends Here**************************************/
+/*************************Your Title Herer Starts**************************************/ 
+	
+	.title_info{
+					font-family:Georgia;
+					float:left;
+					width:33.33%;
+					padding:0px 37px 50px 0px;
+				}
+	.title_info h2{
+					font-size:16px;
+					color:#666;
+					padding-top:50px;
+				  }
+	.title_info p{
+					
+					padding:25px 0px 30px 0px;
+					left: 10px;
+					font-size:13px;
+					color:#999;
+					line-height:1.5;
+				}
+	.title_info a{
+					margin-top:29px;
+					font-size:13px;
+					color:#fff;
+					text-decoration:none;
+					background-color:#d54346;
+					padding:11px 11px;
+					border-radius:10px;
+				}
+
+/*************************Your Title Herer Ends**************************************/
+
+/*************************Services About Starts Here **************************************/
+	/**********************Services Starts Here************************************/
+	.Services{
+				
+				float:left;
+				padding:50px 0px;
+			}
+
+	.Services h2{
+					font-family:Georgia;
+					padding-bottom:29px;
+					font-size:16px;
+					color:#666;
+				}
+	.service_img {
+					margin-bottom:30px;
+					height:90px;
+					width:90px;
+					border: 2px solid #e2e2e2;
+					background-color:#fff;
+					float:left;
+				
+				}
+	.service_img img{
+						padding: 3px 3px 3px 3px;
+					}
+	.service_info {
+						float:left;
+						padding-left: 15px;
+				  }
+	.service_info h3{	
+						padding-bottom:10px;
+						font-size:16px;
+						color:#d54346;
+				  }
+	.service_info p{	
+						width: 304px;
+						font-size:13px;
+						color:#999;
+				  }
+	/**********************Services Ends Here************************************/
+	/**********************About US Starts Here************************************/
+	.Aboutus{
+				padding-top:50px;
+				float:left;
+				padding-left:24px;
+			}
+	.Aboutus h2{
+					font-family:Georgia;
+					padding-bottom:29px;
+					font-size:16px;
+					color:#666;
+				}
+	.about_img {
+					
+					height:155px;
+					width:235px;
+					border: 2px solid #e2e2e2;
+					background-color:#fff;
+					float:left;
+				}
+	.about_img img{
+					padding: 5px 5px 5px 5px;
+				  }
+	.about_info {
+				  float:left;
+				  padding-left: 24px;
+				}
+				  
+	.about_info p{	
+					width: 176px;
+					line-height: 1.4;
+					font-size:13px;
+					color:#999;
+				  }
+	.about_info_1 p{
+						font-size:13px;
+						padding-top:17px;
+						color:#999;
+						line-height:1.5;
+						width: 392px;
+						padding-bottom:15px;
+					}
+	.about_info_1 a{
+						font-size:13px;
+						color:#fff;
+						text-decoration:none;
+						background-color:#d54346;
+						padding:11px 11px;
+						border-radius:10px;
+						margin-left:286px;
+					}
+	.about_info_2 {
+					padding-top:25px;
+				 }
+	.about_info_2 h2{
+						padding-bottom:19px;
+						font-size:16px;
+						color:#666;
+					}
+	.about_info_2 img{
+						float:left;
+					}
+	.CEO		{
+					float:left;
+					padding:0px 0px 10px 10px;
+					
+				}
+	.about_info_2 h3{
+						color:#989898;
+						font-size:16px;
+					}
+	.about_info_2 a{
+						color:#d54346;
+						font-size:13px;
+						text-decoration:none;
+					}
+	.about_info_2 p{
+						width: 403px;
+						font-size:13px;
+						color:#888;
+						line-height:1.4;
+				  }
+	/**********************About US Ends Here************************************/
+/*************************Services About Ends Here **************************************/
+
+
+/*************************Footer Starts Here ********************************************/
+	.footer{
+				padding:20px 0px;
+			}
+	.footer h2{
+				font-family:Georgia;
+				font-size:12px;
+				color:#666;
+				padding-right:450px;
+				float:left;
+			 }
+	
+	.footer h3{
+				font-family:Georgia;
+				font-size:12px;
+				color:#888;
+				float:left;
+			}
+
+/*************************Footer Ends Here *********************************************/

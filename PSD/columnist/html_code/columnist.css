@@ -1,0 +1,367 @@
+/*************Reset CSS Code Start*************************/
+*{
+	
+	margin:0;
+	padding:0;
+	border:0;
+	box-sizing:border-box;
+	
+}
+/*************Reset CSS Code End*************************/
+	.container {
+		width: 963px;
+		margin: 0 auto;
+	}
+	.clear{
+				clear:both;
+		  }
+
+/*************************Header Starts Here************************************/
+	.Header {
+				height:51px;
+				background-color:#2d2928;
+				position:relative;
+				
+			}
+	
+	.navigation_bar {
+						float:left;	
+						padding:20px 0px 20px 0px;
+					}
+	.navigation_bar a{
+						text-decoration:none;	
+						color:#c4c4c4;					
+						font-size:12px;
+						font-family:Arial Unicode MS;
+				      }
+	.search_field {
+						float:right;
+						position:relative;
+						margin-top:13px;
+				  }
+	.input{
+				width:210px;
+				height:26px;
+				border-radius:30px;
+				font-size:16px;
+				border:1px solid black;
+		}
+	.button{
+				position:absolute;
+				margin-left: -25px;
+				margin-top:5px;
+				width:18px;
+				height:18px;
+				background: linear-gradient(90deg,black,grey);
+				color:white;
+				border-radius:50%;
+				font-size:14px;
+				
+			}
+	
+/*************************Header Ends Here**************************************/
+
+/*************************Columnist Starts Here*********************************/
+	
+	.info h2{
+				font-size:36px;
+				font-family:Georgia;
+				color:#666;
+				padding:27px 0px 9px 0px;
+			}
+	.info h3{
+				font-size:12px;
+				font-family:Georgia;
+				color:#999;
+				padding-bottom:39px;
+			}
+	.dimension_div {
+						margin-top:-95px;
+						height:60px;
+						width:468px;
+						border: 2px solid #e2e2e2;
+						background-color:#fff;
+						float:right;
+					}
+	.dimension_div h4{
+					
+						font-size:12px;
+						font-family:Georgia;
+						color:#999;
+						text-align:center;
+						padding:25px 168px;
+					}
+/*************************Columnist Ends Here***********************************/ 
+/*************************Navigation Link Starts Here***************************/
+	.line{
+			border: 1px solid #e1e1e1;
+			margin-bottom:1px;
+			width:100%;
+		}
+	.navigation{
+					float:left;	
+					padding:13px 20px 13px 0px;
+				}
+	.navigation a{
+						text-decoration:none;	
+						color:#999;					
+						font-size:12px;
+						font-family:Georgia;
+						width:676px;
+						margin-right:15px;
+				  }
+	.navigation a:hover {
+							   color: #ff9900;
+						}
+/*************************Navigation Link Ends Here******************************/
+
+/*************************Top Stories Starts Here*******************************/
+	.Top_Stories img{
+						
+						padding:40px 54px 40px 0px;
+						float:left;
+					}
+	.content{
+			 width:359px;
+			 float:right;
+			 margin-top: -320px;
+		 
+			}
+	.content h1{
+					font-size:56px;
+					font-family:Georgia;
+					color:#666;
+					padding-bottom:26px;
+				}
+	.content p{
+					font-size:16px;
+					font-family:Georgia;
+					color:#666;
+					padding-bottom:31px;
+					line-height:1.4em;
+				}
+	.content a{
+					font-size:16px;
+					font-family:Georgia;
+					text-decoration:none;	
+					color:#ff9900;
+					
+				}
+	.line1{
+			border: 1px solid #e1e1e1;
+			width:100%;
+		}
+/*************************Top Stories Ends Here*********************************/
+
+/*************************Column Starts Here************************************/
+	
+	.Column_12 {
+				float:left;
+				width: 303px;
+				padding-right:30px;
+		 
+				}
+	.Column_34 {
+				float:left;
+				width: 303px;
+				padding-right:30px;
+				
+				}
+	.Column_56 {
+				float:left;
+				width: 303px;
+				padding-right:30px;
+			
+				}
+	/************ Column info Start here**************/
+	.Column_1{
+					float:left;
+					padding:40px 0px 10px 0px;
+				}
+	.Column_1 p{
+					font-size:18px;
+					color:#666;
+					padding-bottom:16px;
+				}
+	.Column_1 h2{
+					font-size:18px;
+					color:#989898;
+					
+				}
+	.Column_1 a{
+					font-size:18px;
+					color:#ff9900;
+					text-decoration:none;
+				}
+				
+	.Column_2 p{
+					font-size:18px;
+					color:#666;
+					padding-bottom:16px;
+				}
+	.Column_2 h2{
+					font-size:18px;
+					color:#989898;
+					
+				}
+	.Column_2 a{
+					font-size:18px;
+					color:#ff9900;
+					text-decoration:none;
+					
+				}
+	/************ Column info End here**************/
+	/************ Blank div Start here**************/
+	.Column_1_img{
+					margin-bottom:30px;
+					height:380px;
+					width:280px;
+					border: 2px solid #e2e2e2;
+			
+				 }
+	.Column_1_img_1{
+					height:360px;
+					width:260px;
+					background-color:#333;
+					margin:9px 9px 9px 9px;
+				 }
+
+					
+	.Column_3_img{
+					margin-bottom:30px;
+					height:320px;
+					width:280px;
+					border: 2px solid #e2e2e2;
+				}
+	.Column_3_img_1{
+					height:300px;
+					width:260px;
+					background-color:#333;
+					margin:9px 9px 9px 9px;
+				 }
+
+	
+	.Column_5_img{
+					margin-bottom:30px;
+					height:220px;
+					width:280px;
+					border: 2px solid #e2e2e2;
+				}
+	.Column_5_img_1{
+					height:200px;
+					width:260px;
+					background-color:#333;
+					margin:9px 9px 9px 9px;
+				 }
+
+		
+	.Column_2_img{
+				
+					margin:10px 0px 70px 0px;
+					height:340px;
+					width:280px;
+					border: 2px solid #e2e2e2;
+				}
+	.Column_2_img_1{
+						height:320px;
+						width:260px;
+						background-color:#333;
+						margin:9px 9px 9px 9px;
+					}
+
+	.Column_4_img{
+					
+					margin:10px 0px 70px 0px;
+					height:380px;
+					width:280px;
+					border: 2px solid #e2e2e2;
+				 }
+	.Column_4_img_1{
+						height:360px;
+						width:260px;
+						background-color:#333;
+						margin:9px 9px 9px 9px;
+					}
+
+	
+	.Column_6_img{
+					
+					margin:10px 0px 70px 0px;
+					height:530px;
+					width:280px;
+					border: 2px solid #e2e2e2;
+				}
+	.Column_6_img_1{
+						height:510px;
+						width:260px;
+						background-color:#333;
+						margin:9px 9px 9px 9px;
+					}
+	/************ Blank div End here**************/
+
+/*************************Column Ends Here**************************************/
+
+
+/*************************Footer Starts Here************************************/
+	.Footer-info{
+					float:left;
+					text-align:center;
+					width:182px;
+					
+					padding:0px 30px 40px 0px;
+					text-align:left;
+				}
+	.Footer-info h1{
+						font-size:13px;
+						font-family:Verdana;
+						color:#666;
+						
+						border:2px solid #e1e1e1;
+						border-left:none;
+						border-right:none;
+						border-top:none;
+						padding:10px 0px;
+						margin:40px 0px 10px 0px;
+				}
+	
+	.Footer-info p{
+					font-size:12px;
+					font-family:Verdana;
+					color:#ff9900;
+					width:138px;
+					line-height:1.4em;
+					
+					}
+
+/*************************Footer Ends Here*************************************/
+
+
+/*************************Copyright Starts Here ********************************************/
+	.Copyright{
+				
+				padding:20px 0px;
+				background-color:#232323;
+				width:100%;
+				font-family:Verdana;
+			}
+	.Copyright h2{
+				
+				font-size:12px;
+				color:#666;
+				
+				padding:0px 329px 0px 150px;
+				float:left;
+			 }
+	
+	.Copyright h3{
+				
+				font-size:12px;
+				color:#888;
+				float:left;
+			}
+
+/*************************Footer Ends Here *********************************************/
+
+	
+
+	

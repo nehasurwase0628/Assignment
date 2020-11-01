@@ -1,0 +1,227 @@
+	*{
+		margin:0;
+		padding:0;
+		border:0;
+		box-sizing:border-box;
+		
+     }
+	.container{
+				width:1014px;
+				margin:0 auto;
+			  }
+	
+	/* ********************Header Starts here******************************************************** */
+	
+			 
+	.navigation-bg{
+				background-color: #4b96a1;
+				/* height:85px; */
+			}
+				   
+	.header-text{
+					float:left;
+				}
+				
+	.header-text h1{
+						font-size:41px;
+						color:#ffffff;
+						/* padding:30px 346px 29px 183px; */
+						padding:30px 0px 29px 0px;
+				   }	
+				   
+	.navigation-bar{
+						float:right;
+				   }
+				   
+	.navigation-bar li{
+						font-size:18px;
+						float:left;
+						list-style-type:none;  /*Remove bullets of text which are by default */
+						/* padding:42px 24px; */
+						padding:42px 24px;
+					  }
+					  
+	.navigation-bar a{
+						 text-decoration:none; /*Remove underline of text which are by default */
+					 }
+	.clear{
+				clear:both;
+		  }
+
+
+	/* ********************Header Ends here******************************************************** */
+	
+   /* ********************Banner Starts here******************************************************** */ 
+   
+
+		.banner-img img{
+							width:100%;
+						}
+		.banner-text{
+						position:absolute;
+						top:129px;
+						left:376px;
+						width:536px;
+						text-align:center;
+					}
+		.banner-text h2{
+						font-size:44px;
+						color: #e4e4e4;
+						padding-bottom:46px;
+						
+					  }
+		.banner-text a{
+							text-decoration:none;
+							font-size:30px;
+							color: #e4e4e4;
+							/* top:46px; */
+							/* bottom:154px; */
+							/* bottom:164px; */
+							border: 3px solid #afb1b4;
+							padding:12px 46px;
+					  }
+		.banner{
+					position:relative;
+			   }
+			   
+
+   /* ********************Banner Ends here******************************************************** */ 
+   
+   /* ********************Product Section Starts here******************************************************** */ 
+	
+		.product_text h2{
+							padding-left:130px;
+							padding-right:277px;
+							padding-top:79px;
+							font-size:30px;
+							text-align:center;
+							color:#4c505d;
+						}
+	
+	    .product_text p{
+							padding-left: 68px;
+							padding-right: 135px;
+							padding-top:79px;
+							font-size:14px;
+							text-align:center;
+							color:#4c505d;
+					    }
+		.product_img 	{
+							padding-top:71px;
+							padding-left:246px;
+						}
+	
+		.product_img_block {
+								float:left;
+								padding-bottom:75px;
+							}
+		.product_img_one{
+		
+							float:left;
+						}
+		.product_img_two{
+							float:left;
+							padding:0 127px;
+						}
+		.product_img_three{
+							float:left;
+						  }
+					   
+   /* ********************Product Section Ends here******************************************************** */ 
+   
+   /* ********************Info Section Starts here******************************************************** */ 
+		.info{
+				background-color: #00d089;
+			}
+		.DHAVAN{
+					float:left;
+					padding-top:102px;
+					padding-left:396px;
+					padding-bottom:62px;
+					text-align:center;
+				}
+		.logo{
+				float:left;
+				padding-left:37px;
+			}
+		.logo h2{
+					font-size:26px;
+					padding-top:113px;
+					padding-bottom:15px;
+					color:#e4e4e4;					
+				}	
+		.logo img{
+					opacity:0.2;
+				 }
+		.info_text{
+					padding-bottom:86px;
+				  }
+		.info_text p{
+					font-size:18px;
+					padding:0 21px;
+					color:#ddf6ea;
+				  }
+   
+   
+   /* ********************Info Section Ends here******************************************************** */
+   
+   /* ********************Map Section Starts here******************************************************** */ 
+		.map_section{
+						position:relative;
+					}
+		.map_circle {
+						height:430px;
+						width:430px;
+						position:absolute;
+						text-align:center;
+						left:425px;
+						top:58px;
+						background-color: #fdfdfd;
+						border-radius:500px;
+						opacity:0.8;
+					}
+		.name{
+				width:275px;
+				height:30px;
+				border:1px solid #d8d8d8;
+				margin-top:111px;
+				color: #a5a7ae;
+			 }
+		.email{
+				width:275px;
+				height:30px;
+				border:1px solid #d8d8d8;
+				margin-top:14px;
+				color: #a5a7ae;
+			  }
+   
+   		.message{
+					width:275px;
+					height:80px;
+					border:1px solid #d8d8d8;
+					color: #a5a7ae;
+					margin-top:14px;
+				 }
+		.form_img{
+					margin-top:30px;
+				 }
+   
+   /* ********************Map Section Starts here******************************************************** */ 
+   
+   /* ********************Footer Section Starts here******************************************************** */ 
+		.footer{
+					width:100%;
+					background-color: #00d089;
+				
+					
+				}
+		
+		.footer h2{
+					font-size:14px;
+					color: #fdfdfd;
+					text-align: center;
+					padding-top:14px;
+			        padding-bottom:16px;
+				}
+   
+   /* ********************Footer Section Ends here******************************************************** */ 
