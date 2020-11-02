@@ -77,15 +77,30 @@
 	/***********************Logo Start here*************************/
 	.logo {
 				float:right;
-				padding:17px 11px 76px 11px;
-			}
+				padding:17px 9px 25px 9px;
+		  }
 
+	.logo li{
+		float: left;
+		list-style-type:none;
+		height:32px;
+		width:32px;
+		border-radius:50%;
+		background-color:#353535;
+		position:relative;
+		margin:0px 0px 0px 9px;
+		padding:9px;
+	}
+	.logo li:hover {
+					 background-color : #c8232c;
+					}
 	/***********************Logo End here**************************/
 	
-	.line{
-		 border: 1px solid #e2e2e2;
-		 width:100%;
-		}
+		.line{
+			border: 1px solid #e1e1e1;
+			border-style: outset;
+			width:100%;
+		 }
 /*************************Header Ends Here**************************************/ 
 
 /*************************Image Starts Here**************************************/
